@@ -1,2 +1,2 @@
 # hello-world
-Projects to help me work on my web developing skills.
+Just a mom working on her web developing skills.
